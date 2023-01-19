@@ -1,5 +1,4 @@
 {
-
  "makeup":[
 {
   "id":1,
@@ -12,7 +11,9 @@
   "MRP":700,
   "price":525,
   "rating":4.2,
-  "review":32680
+  "review":32680,
+  "stock":true,
+  "qty":25
 },
 {
     "id":2,
@@ -25,7 +26,9 @@
     "MRP":349,
     "price":314,
     "rating":4.4,
-    "review":1009
+    "review":1009,
+    "stock":true,
+    "qty":25
 },
 {
     "id":3,
@@ -38,7 +41,9 @@
     "MRP":525,
     "price":394,
     "rating":4.2,
-    "review":1923
+    "review":1923,
+    "stock":true,
+    "qty":25
 }
  ],
 
@@ -54,7 +59,9 @@
     "MRP":750,
     "price":638,
     "rating":4.1,
-    "review":300
+    "review":300,
+    "stock":true,
+    "qty":25
 
 
 
@@ -70,7 +77,9 @@
     "MRP":500,
     "price":425,
     "rating":3.9,
-    "review":2100
+    "review":2100,
+    "stock":true,
+    "qty":25
 
 
 
@@ -86,7 +95,9 @@
     "MRP":750,
     "price":638,
     "rating":4.9,
-    "review":1300
+    "review":1300,
+    "stock":true,
+    "qty":25
 
 
 
@@ -105,7 +116,9 @@
     "MRP":299,
     "price":254,
     "rating":4.3,
-    "review":1969
+    "review":1969,
+    "stock":true,
+    "qty":25
 
 
   },
@@ -120,7 +133,9 @@
     "MRP":210,
     "price":179,
     "rating":4.2,
-    "review":873
+    "review":873,
+    "stock":true,
+    "qty":25
 
 
   },
@@ -135,7 +150,9 @@
     "MRP":399,
     "price":339,
     "rating":4.5,
-    "review":60
+    "review":60,
+    "stock":true,
+    "qty":25
 
   }
 ]
