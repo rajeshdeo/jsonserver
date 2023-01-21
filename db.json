@@ -423,6 +423,21 @@
         "stock":true,
         "qty":25
       }
+  ],
+  "cart":[
+    {
+          "id":1,
+          "image1":"https://images-static.nykaa.com/media/catalog/product/5/8/58c69f68906092490335_rnv1.jpg",
+          "title":"Khadi Natural Amla & Bhringraj Hair Cleanser SLS Paraben Free (For All hair types) (210ml)",
+          "brand":"Khadi Natural",
+          "MRP":299,
+          "price":254,
+          "rating":4.3,
+          "review":1969,
+          "stock":true,
+          "qty":25
+    }
   ]
+
 
 }
