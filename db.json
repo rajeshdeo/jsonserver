@@ -424,7 +424,7 @@
         "qty":25
       }
   ],
-  "cart":[
+"cart":[
     {
           "id":1,
           "image1":"https://images-static.nykaa.com/media/catalog/product/5/8/58c69f68906092490335_rnv1.jpg",
@@ -435,7 +435,7 @@
           "rating":4.3,
           "review":1969,
           "stock":true,
-          "qty":25
+          "qty":20
     }
   ]
 
